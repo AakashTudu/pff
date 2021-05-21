@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --organge: hsl(18, 98%, 51%);
+  --white: hsl(0, 0%, 100%);
+}
+
+.navbar-brand img {
+  height: 60px;
+}
+
+.white-section {
+  background-color: var(--white);
+}
+/* BUTTONS */
+.btn {
+  background-color: var(--white);
+  border: 1px solid var(--organge);
+  transition: background-color 0.5s;
+  color: var(--organge);
+}
+
+.btn:hover {
+  background-color: var(--organge);
+  color: var(--white);
+}
+
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
