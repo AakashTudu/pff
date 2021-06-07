@@ -59,7 +59,7 @@ nav {
   background-color: var(--orange);
 }
 .section-1 {
-  background-image: url("/img/child.jpg");
+  background-image: url("img/child.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -81,7 +81,7 @@ nav {
   z-index: -1;
 }
 .section-3 {
-  background-image: url("/img/cycle.png");
+  background-image: url("img/cycle.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
