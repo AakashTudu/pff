@@ -130,7 +130,7 @@ nav {
 }
 
 .section-3 {
-  background-image: url("/img/cycle.png");
+  background-image: url("img/cycle.png");
 }
 #contribute {
   background-color: var(--orange);
