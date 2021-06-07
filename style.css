@@ -153,3 +153,7 @@ nav {
 #contribute {
   background-color: var(--orange);
 }
+
+footer{
+    background-color: #ffff;
+}
