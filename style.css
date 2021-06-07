@@ -61,7 +61,7 @@ nav {
   background-color: var(--orange);
 }
 
-.heading {
+.heading , .section-3 {
   background-image: url("/img/child.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
