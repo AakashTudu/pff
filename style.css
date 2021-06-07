@@ -62,7 +62,7 @@ nav {
 }
 
 .heading {
-  background-image: url("./img/child.jpg");
+  background-image: url("/img/child.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
